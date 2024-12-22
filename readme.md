@@ -1,3 +1,7 @@
+## Important Instruction
+
+- You will have to comment main() when unit testing your code because catch uses its own main().
+- 
 # Video Tutorial
 <!-- Setting up embed: -->
 <!-- https://ardalis.com/how-to-embed-youtube-video-in-github-readme-markdown/ -->
